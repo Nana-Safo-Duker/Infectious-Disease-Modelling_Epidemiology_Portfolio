@@ -2,7 +2,7 @@
 
 Multi-project laboratory of AI/ML workflows for infectious disease analytics created by Nana Safo-Duker. Each folder is a self-contained project combining epidemiological reasoning, statistical testing, and machine learning to support outbreak understanding, surveillance planning, and public-health decision support.
 
-This README provides the cross-project narrative for the repository: what is included, how to run it reproducibly, and how each project contributes to a broader computational epidemiology portfolio.
+This README provides the cross-project narrative for the repository: what is included, how to run it reproducibly and how each project contributes to a broader computational epidemiology portfolio.
 
 ## Table of Contents
 
